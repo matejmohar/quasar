@@ -191,7 +191,7 @@ If you're using .vue files, you'll most likely have a fairly easy transition bec
 
 We suggest that you first convert your project to Quasar v2 while maintaining Options API (because your components are already in Options API form and you probably want to ensure everything is working first). After this transition, you can convert all your Vue components to Composition API, but in no way is this a requirement.
 
-Along with Vue3, there is a new major version of [Vue Router v4](https://next.router.vuejs.org), which has its own [breaking changes](https://next.router.vuejs.org/guide/migration/) you should be aware of. There's also the new [Vuex v4](https://vuex.vuejs.org/) too.
+Along with Vue3, there is a new major version of [Vue Router v4](https://next.router.vuejs.org), which has its own [breaking changes](https://next.router.vuejs.org/guide/migration/) you should be aware of. There's also the new [Vuex v4](https://next.vuex.vuejs.org/) too.
 
 #### Vue 3 breaking changes examples
 
